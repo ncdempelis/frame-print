@@ -1,6 +1,6 @@
 {
   "name": "nickdempelis-frame-print",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learning how to create a npm package",
   "main": "index.js",
   "scripts": {
