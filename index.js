@@ -1,6 +1,4 @@
 module.exports = function print(msg) {
-	const msgLength= msg.length;
-	
 
 	console.log('*'.repeat(msg.length));
 	console.log(msg);
